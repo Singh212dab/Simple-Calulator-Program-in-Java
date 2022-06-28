@@ -1,2 +1,2 @@
-# Simple-Calulator-Program-using-Java
-Simple Calulator Program using Java
+# Simple-Calulator-Program-In-Java
+Simple Calulator Program In Java
